@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c99fca55-8dae-4ad4-bf45-d16690c16d7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VO1ZgyvUdZ37xjvofIzY50IrxH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\微云同步\毕业设计\Input Method\Files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\微云同步\毕业设计\Input Method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Input_Method (1)">
+    <configuration name="Get_Article" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Input Method" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_Article.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Get_Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Input Method" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_Dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Input_Method (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Input Method" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Input_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Local_HMM (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Input Method" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Local_HMM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Local_HMM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Input Method" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\微云同步\毕业设计\Input Method\Local_HMM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Input_Method (1)" />
+        <item itemvalue="Python.Local_HMM (1)" />
+        <item itemvalue="Python.Get_Dictionary" />
+        <item itemvalue="Python.Get_Article" />
+        <item itemvalue="Python.Local_HMM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c99fca55-8dae-4ad4-bf45-d16690c16d7d" name="Default Changelist" comment="" />
+      <created>1577109384620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577109384620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586013884740">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="231" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1046@0.0.1920.1046" timestamp="1586013884740" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586863996600">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1586863996600" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1588683287663">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="527" y="234" key="FileChooserDialogImpl/0.0.1368.881@0.0.1368.881" timestamp="1580383583294" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1046@0.0.1920.1046" timestamp="1588683287663" />
+    <state width="1348" height="246" key="GridCell.Tab.0.bottom" timestamp="1588834559086">
+      <screen x="0" y="0" width="1368" height="881" />
+    </state>
+    <state width="1348" height="246" key="GridCell.Tab.0.bottom/0.0.1368.881@0.0.1368.881" timestamp="1588834559086" />
+    <state width="1899" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1046@0.0.1920.1046" timestamp="1588685803907" />
+    <state width="1348" height="246" key="GridCell.Tab.0.center" timestamp="1588834559086">
+      <screen x="0" y="0" width="1368" height="881" />
+    </state>
+    <state width="1348" height="246" key="GridCell.Tab.0.center/0.0.1368.881@0.0.1368.881" timestamp="1588834559086" />
+    <state width="1899" height="196" key="GridCell.Tab.0.center/0.0.1920.1046@0.0.1920.1046" timestamp="1588685803907" />
+    <state width="1348" height="246" key="GridCell.Tab.0.left" timestamp="1588834559086">
+      <screen x="0" y="0" width="1368" height="881" />
+    </state>
+    <state width="1348" height="246" key="GridCell.Tab.0.left/0.0.1368.881@0.0.1368.881" timestamp="1588834559086" />
+    <state width="1899" height="196" key="GridCell.Tab.0.left/0.0.1920.1046@0.0.1920.1046" timestamp="1588685803907" />
+    <state width="1348" height="246" key="GridCell.Tab.0.right" timestamp="1588834559086">
+      <screen x="0" y="0" width="1368" height="881" />
+    </state>
+    <state width="1348" height="246" key="GridCell.Tab.0.right/0.0.1368.881@0.0.1368.881" timestamp="1588834559086" />
+    <state width="1899" height="196" key="GridCell.Tab.0.right/0.0.1920.1046@0.0.1920.1046" timestamp="1588685803907" />
+    <state width="936" height="350" key="GridCell.Tab.1.bottom" timestamp="1581746772908">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="936" height="350" key="GridCell.Tab.1.bottom/0.0.1920.1046@0.0.1920.1046" timestamp="1581746772908" />
+    <state width="936" height="350" key="GridCell.Tab.1.center" timestamp="1581746772908">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="936" height="350" key="GridCell.Tab.1.center/0.0.1920.1046@0.0.1920.1046" timestamp="1581746772908" />
+    <state width="936" height="350" key="GridCell.Tab.1.left" timestamp="1581746772908">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="936" height="350" key="GridCell.Tab.1.left/0.0.1920.1046@0.0.1920.1046" timestamp="1581746772908" />
+    <state width="936" height="350" key="GridCell.Tab.1.right" timestamp="1581746772908">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="936" height="350" key="GridCell.Tab.1.right/0.0.1920.1046@0.0.1920.1046" timestamp="1581746772908" />
+    <state x="283" y="176" width="998" height="708" key="SettingsEditor" timestamp="1582200943055">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="283" y="176" width="998" height="708" key="SettingsEditor/0.0.1920.1046@0.0.1920.1046" timestamp="1582200943055" />
+    <state x="369" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1588825134769">
+      <screen x="0" y="0" width="1368" height="881" />
+    </state>
+    <state x="369" y="266" key="com.intellij.ide.util.TipDialog/0.0.1368.881@0.0.1368.881" timestamp="1588825134769" />
+    <state x="358" y="329" key="com.intellij.ide.util.TipDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1587732822547" />
+    <state x="1187" y="290" width="672" height="678" key="search.everywhere.popup" timestamp="1584162467682">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="1187" y="290" width="672" height="678" key="search.everywhere.popup/0.0.1920.1046@0.0.1920.1046" timestamp="1584162467682" />
+  </component>
+</project>
